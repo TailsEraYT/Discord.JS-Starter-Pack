@@ -1,0 +1,24 @@
+{
+  "name": "JsStarters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TailsEraYT/Discord.JS-Starter-Pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TailsEraYT/Discord.JS-Starter-Pack/issues"
+  },
+  "homepage": "https://github.com/TailsEraYT/Discord.JS-Starter-Pack#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
